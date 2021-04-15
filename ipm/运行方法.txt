@@ -1,0 +1,1 @@
+python ipm.py --cc --drone droneCameraConfig.yaml front.yaml front.png rear.yaml rear.png left.yaml left.png right.yaml right.png
